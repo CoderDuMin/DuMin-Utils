@@ -1,0 +1,17 @@
+{
+  "name": "dumin-utils",
+  "version": "1.0.4",
+  "description": "A simple tool function library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils","tools"],
+  "author": "dumin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CoderDuMin/DuMin-Utils.git"
+  },
+  "homepage": "https://github.com/CoderDuMin"
+}
